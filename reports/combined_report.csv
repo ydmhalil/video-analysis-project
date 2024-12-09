@@ -1,0 +1,42 @@
+Exact Time (s),File Name,Detected Keywords,Warning,Video Source
+2.0,None,None,0,sample_1.mp4
+4.0,None,None,0,sample_1.mp4
+6.0,None,None,0,sample_1.mp4
+8.0,None,None,0,sample_1.mp4
+10.0,None,None,0,sample_1.mp4
+12.0,None,None,0,sample_1.mp4
+14.0,None,None,0,sample_1.mp4
+16.0,None,None,0,sample_1.mp4
+18.0,None,None,0,sample_1.mp4
+20.0,frame_motion_600.png,"chatGPT, chatGPt, chatgptcom",1,sample_1.mp4
+22.0,frame_motion_660.png,"chatgptcom, hEpslichatgptcom",1,sample_1.mp4
+24.0,frame_motion_720.png,hEpsichatgptcom,1,sample_1.mp4
+26.0,frame_motion_780.png,hEpsichatgptcom,1,sample_1.mp4
+28.0,None,None,0,sample_1.mp4
+30.0,None,None,0,sample_1.mp4
+32.0,None,None,0,sample_1.mp4
+2.0,None,None,0,sample_2.mp4
+4.0,None,None,0,sample_2.mp4
+6.0,None,None,0,sample_2.mp4
+8.0,None,None,0,sample_2.mp4
+10.0,frame_motion_300.png,chatgpt,1,sample_2.mp4
+12.0,None,None,0,sample_2.mp4
+14.0,None,None,0,sample_2.mp4
+16.0,frame_motion_480.png,hEpsichatgptcon/c67481b4d-2270-8012-8a71-35e666986173,1,sample_2.mp4
+18.0,frame_motion_540.png,hEpsichatgptcon/c67481b4d-2270-8012-8a71-85e666986173,1,sample_2.mp4
+20.0,frame_motion_600.png,chatgpt,1,sample_2.mp4
+2.0,frame_motion_60.png,"""@hatGPT chatgpt], httpslichatgptcon/d6748bb4d-2270-8012-8271-35e666986173",1,sample_3.mp4
+4.0,frame_motion_120.png,"""@hatGPT chatgpt], httpslichatgptcon/d6748bb4d-2270-8012-8271-35e666986173",1,sample_3.mp4
+6.0,frame_motion_180.png,"""@hatGPT chatgpt], httpslichatgptcon/d6748bb4d-2270-8012-8271-35e666986173",1,sample_3.mp4
+8.0,frame_motion_240.png,"""@hatGPT chatgpt], httpslichatgptcon/d6748bb4d-2270-8012-8271-35e666986173",1,sample_3.mp4
+10.0,frame_motion_300.png,"""@hatGPT chatgpt], httpslichatgptcon/d6748bb4d-2270-8012-8271-35e666986173",1,sample_3.mp4
+12.0,frame_motion_360.png,"""@hatGPT chatgpt], httpslichatgptcon/d6748bb4d-2270-8012-8a71-35e666986133",1,sample_3.mp4
+2.0,None,None,0,sample_4.mp4
+4.0,None,None,0,sample_4.mp4
+6.0,frame_motion_180.png,hepsllchatgptcon/d675562ee-1700-8012-83e0-80234db7db41,1,sample_4.mp4
+8.0,frame_motion_240.png,hepsllchatgptcon/d675562ee-1700-8012-83e0-80234db7db41,1,sample_4.mp4
+10.0,None,None,0,sample_4.mp4
+12.0,None,None,0,sample_4.mp4
+14.0,None,None,0,sample_4.mp4
+16.0,frame_motion_480.png,ltpsiychatgptcomdj678562ee-1700-8012-8820-802844zdb4,1,sample_4.mp4
+18.0,frame_motion_540.png,hepsllchatgptcon/d675562ee-1700-8012-83e0-80234db7db41,1,sample_4.mp4
